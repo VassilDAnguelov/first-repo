@@ -1,1 +1,1 @@
-test
+promqna s bash
